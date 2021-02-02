@@ -1,3 +1,5 @@
-# react-ts-xlffa5
+## Create React App Visualization
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-xlffa5)
+This assessment was bespoke handcrafted for manan.
+
+Read more about this assessment [here](https://react.eogresources.com)
